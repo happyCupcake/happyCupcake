@@ -5,9 +5,7 @@
 -->
 
 ## About Me  
-I'm a Computer Science student at the Georgia Institute of Technology, focusing on Artificial Intelligence, Machine Learning, and Systems Architecture. I enjoy building impactful, full-stack applications and working on various systems, such as embedded tools for race cars as well as mobile apps promoting sustainability.
-
-I've contributed to projects with 50K+ downloads, supported over 300 students as a teaching assistant, and developed software for autonomous vehicles and cybersecurity. I am always eager to connect with fellow professionals and explore new opportunities in the tech industry. Whether you're looking for a skilled developer to join your team or interested in discussing the latest advancements in technology, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/itzmrinali/).
+I'm a Computer Science student at the Georgia Institute of Technology, focusing on Artificial Intelligence, Machine Learning, and Systems Architecture. I've contributed to projects with 50K+ downloads, supported over 300 students as a teaching assistant, and developed software for autonomous vehicles and cybersecurity. I am always eager to connect with fellow professionals and explore new opportunities in the tech industry. Whether you're looking for a skilled developer to join your team or interested in discussing the latest advancements in technology, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/itzmrinali/).
 
 ---
 
